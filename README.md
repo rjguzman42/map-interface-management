@@ -4,3 +4,5 @@
 
 # Usage
 Custom interface management for overlaying buttons, views, and a profile-sidebar over a map.
+
+You can interact with the interface by downloading the Hangry Maps app here -> http://appstore.com/hangrymaps
